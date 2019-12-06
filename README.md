@@ -2,6 +2,8 @@
 
 Application android pour envoyer un sms à des amis pour aller se partager une petite bière.
 
+Pour l'installer : télécharger le .apk à la racine du projet et lancer le sur votre smartphone.
+
 ## ChangeLog
 
 Version 1.0 : Ajout de la fonctionnalité d'envoi de message.
